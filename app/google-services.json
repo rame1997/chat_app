@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18286842022",
+    "project_id": "chatwedilver",
+    "storage_bucket": "chatwedilver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18286842022:android:43c62021929a233c226467",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18286842022-aej2q0juvglbcgd485brsgse3it9tkmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KPLCGZcfTTz46N5vOmn1_iPdTYHimLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18286842022-aej2q0juvglbcgd485brsgse3it9tkmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
